@@ -1,0 +1,18 @@
+{
+  "name": "ersdraken",
+  "version": "0.0.1",
+  "description": "a game to rule them all",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron -r babel-register ."
+  },
+  "author": "drakenar",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "electron": "^5.0.5",
+    "phaser": "^3.18.1"
+  }
+}
